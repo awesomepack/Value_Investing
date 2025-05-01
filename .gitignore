@@ -127,7 +127,8 @@ celerybeat.pid
 # SageMath parsed files
 *.sage.py
 
-# Environments
+# Environments 
+myenv/
 .env
 .venv
 env/
@@ -169,3 +170,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Edge web driver
+msedgedriver.exe
